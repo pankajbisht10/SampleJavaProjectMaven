@@ -19,8 +19,8 @@
 *.jspx          text
 *.properties    text
 *.sh            text eol=lf
+*.txt           text eol=lf
 *.tld           text
-*.txt           text
 *.tag           text
 *.tagx          text
 *.xml           text
